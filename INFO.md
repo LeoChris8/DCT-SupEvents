@@ -1,3 +1,7 @@
+TP1.2.md --> Tp 1.2
+
+TP1.3.md --> Tp 1.3
+
 06.4-vue-donnees.md --> Tp 1.4
 08-interfaces-api.md --> Tp 1.4
 review-tp1.4.md --> Tp 1.4
@@ -11,3 +15,5 @@ template.md --> Tp 1.5
 
 09-exigences-transverses.md --> Tp 1.6
 10-tracabilite.md --> Tp 1.6
+
+tp1.7.md --> Tp 1.7
